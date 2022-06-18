@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I am Jitin
 ## Welcome to my GitHub Profile
 
 <!-- **jitinchekka/jitinchekka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekvinay&label=Profile%20views&color=0e75b6&style=flat" alt="geekvinay" /> </p>
 <!-- Here are some ideas to get you started: -->
 - 🔭 I’m currently working on Full stack web development and Python programming
 - 🌱 I’m currently pursuing B.Tech at IIIT Kancheepuram, Chennai, India
