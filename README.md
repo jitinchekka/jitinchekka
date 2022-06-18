@@ -16,3 +16,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=jitinchekka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Jitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitinchekka&count_private=true&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jitinchekka&theme=dark)](https://git.io/streak-stats)
