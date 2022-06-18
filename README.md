@@ -8,6 +8,10 @@
 - 🌱 I’m currently pursuing B.Tech at IIIT Kancheepuram, Chennai, India
 - 👯 I’m looking to collaborate on Web Development projects
 - 📫 Reach me at jitinchekka2@gmail.com
+
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jitinchekka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Jitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=dark)
