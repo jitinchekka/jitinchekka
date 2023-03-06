@@ -4,7 +4,7 @@
 <!-- **jitinchekka/jitinchekka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitinchekka&label=Profile%20views&color=0e75b6&style=flat" alt="jitinchekka" /> </p>
 <!-- Here are some ideas to get you started: -->
-- 🔭 I’m currently working on Full stack web development and Python programming
+- 🔭 I’m currently working on Machine Learning, Data Science, Artificial Intelligence and Python programming
 - 🌱 I’m currently pursuing B.Tech at IIIT Kancheepuram, Chennai, India
 - 👯 I’m looking to collaborate on Web Development projects
 - 📫 Reach me at jitinchekka2@gmail.com
