@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitinchekka&label=Profile%20views&color=0e75b6&style=flat" alt="jitinchekka" /> </p>
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **Machine Learning, Data Science, Artificial Intelligence and Python programming**
+- 🔭 I’m currently working on **Software Development, Machine Learning, Data Science, Artificial Intelligence and Python programming**
 
 - 🌱 I’m currently pursuing B.Tech at **IIIT Chennai, India**
 
-- 👯 I’m looking to collaborate on **ML Projects**
+<!-- 👯 I’m looking to collaborate on **ML Projects** -->
 
 - 📫 Reach me at **jitinchekka2@gmail.com**
 
